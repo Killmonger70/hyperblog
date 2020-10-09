@@ -5,3 +5,6 @@ Nicolas Nacio en colombia, Esta es su obra.
 Este es el fin de su obra.
 
 Pero vive en el internet.
+
+En el internet de la casa de sus padres.
+.
